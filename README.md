@@ -1,7 +1,7 @@
 # desert-safari
 
-##Light Theme
-https://maharajadesertcampsafari.com/dark/
-
 ##Dark Theme
 https://maharajadesertcampsafari.com/
+
+##Light Theme
+https://maharajadesertcampsafari.com/dark/
